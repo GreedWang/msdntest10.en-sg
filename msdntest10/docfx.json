@@ -1,0 +1,52 @@
+{
+  "build": {
+    "content": [
+      {
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "_themes/**",
+          "_themes.pdf/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE",
+          "ThirdPartyNotices"
+        ],
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ]
+      }
+    ],
+    "dest": "msdntest10",
+    "externalReference": [],
+    "fileMetadata": {},
+    "globalMetadata": {
+      "breadcrumb_path": "/msdntest10/breadcrumb/toc.json",
+      "breadcrumb_path2": "/msdntest10/breadcrumb/toc2.json",
+      "is_ret": true
+    },
+    "groups": {
+      "g1": {
+        "dest": "d1",
+        "moniker_range": "m1"
+      }
+    },
+    "overwrite": [],
+    "resource": [
+      {
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "_themes/**",
+          "_themes.pdf/**"
+        ],
+        "files": [
+          "**/*.png",
+          "**/*.jpg"
+        ]
+      }
+    ],
+    "template": []
+  }
+}
