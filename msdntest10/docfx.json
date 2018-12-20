@@ -23,8 +23,8 @@
     "fileMetadata": {},
     "globalMetadata": {
       "breadcrumb_path": "/msdntest10/breadcrumb/toc.json",
-      "breadcrumb_path2": "/msdntest10/breadcrumb/toc2.json",
-      "is_ret": true
+      "extendBreadcrumb": true,
+      "is_re": true
     },
     "groups": {
       "g1": {
